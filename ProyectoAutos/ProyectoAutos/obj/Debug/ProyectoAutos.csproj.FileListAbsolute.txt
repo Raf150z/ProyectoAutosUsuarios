@@ -45,3 +45,4 @@ C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin
 C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\LogicaUsuarios.pdb
 C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\UsuariosAccesoDatos.pdb
 C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\UsuariosAccesoDatos.dll.config
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.FrmPrincipal.resources

@@ -31,7 +31,7 @@ namespace ProyectoAutos
             if (Iniciar == true)
             {
                 FrmPrincipal Entrar = new FrmPrincipal();
-                this.Hide();
+                this.Close();
                 Entrar.Show();
             }
             else

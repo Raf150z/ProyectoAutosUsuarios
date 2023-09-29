@@ -16,5 +16,22 @@ namespace ProyectoAutos
         {
             InitializeComponent();
         }
+
+        private void toolStripLabel3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tsl_Salir_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void tsl_Regresar_Click(object sender, EventArgs e)
+        {
+            Form1 inicio = new Form1();
+            this.Close();
+            inicio.Show();
+        }
     }
 }
