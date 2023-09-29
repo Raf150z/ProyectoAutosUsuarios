@@ -1,0 +1,10 @@
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\ProyectoAutos.exe.config
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\ProyectoAutos.exe
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\ProyectoAutos.pdb
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.AssemblyReference.cache
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Form1.resources
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.Properties.Resources.resources
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.GenerateResource.cache
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.CoreCompileInputs.cache
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.exe
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.pdb
