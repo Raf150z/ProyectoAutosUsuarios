@@ -11,7 +11,7 @@ namespace UsuariosAccesoDatos
 {
     public class Conexion
     {
-        private MySqlConnection _conex;
+        public MySqlConnection _conex;
 
         public Conexion(string servidor, string usuario, string password, string database, uint puerto)
         {

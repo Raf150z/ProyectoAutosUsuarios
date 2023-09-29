@@ -10,7 +10,6 @@ using MySql.Data.MySqlClient;
 
 namespace UsuariosAccesoDatos
 {
-    
     public class AccesoDatos
     {
         Conexion Con;

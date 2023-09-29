@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txt_Usuarios = new System.Windows.Forms.TextBox();
             this.txt_Contraseña = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.btn_Ingresar = new System.Windows.Forms.Button();
+            this.txt_Usuarios = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.btn_Salir = new System.Windows.Forms.Button();
+            this.btn_Ingresar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -53,32 +53,6 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             // 
-            // groupBox2
-            // 
-            this.groupBox2.Controls.Add(this.btn_Salir);
-            this.groupBox2.Controls.Add(this.btn_Ingresar);
-            this.groupBox2.Location = new System.Drawing.Point(12, 378);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(347, 60);
-            this.groupBox2.TabIndex = 1;
-            this.groupBox2.TabStop = false;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(56, 41);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 18);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Usuario";
-            // 
-            // txt_Usuarios
-            // 
-            this.txt_Usuarios.Location = new System.Drawing.Point(59, 58);
-            this.txt_Usuarios.Name = "txt_Usuarios";
-            this.txt_Usuarios.Size = new System.Drawing.Size(234, 23);
-            this.txt_Usuarios.TabIndex = 1;
-            // 
             // txt_Contraseña
             // 
             this.txt_Contraseña.Location = new System.Drawing.Point(59, 119);
@@ -95,14 +69,31 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Contraseña";
             // 
-            // btn_Ingresar
+            // txt_Usuarios
             // 
-            this.btn_Ingresar.Location = new System.Drawing.Point(253, 19);
-            this.btn_Ingresar.Name = "btn_Ingresar";
-            this.btn_Ingresar.Size = new System.Drawing.Size(88, 35);
-            this.btn_Ingresar.TabIndex = 0;
-            this.btn_Ingresar.Text = "Ingresar";
-            this.btn_Ingresar.UseVisualStyleBackColor = true;
+            this.txt_Usuarios.Location = new System.Drawing.Point(59, 58);
+            this.txt_Usuarios.Name = "txt_Usuarios";
+            this.txt_Usuarios.Size = new System.Drawing.Size(234, 23);
+            this.txt_Usuarios.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(56, 41);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(60, 18);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Usuario";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.btn_Salir);
+            this.groupBox2.Controls.Add(this.btn_Ingresar);
+            this.groupBox2.Location = new System.Drawing.Point(12, 378);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(347, 60);
+            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabStop = false;
             // 
             // btn_Salir
             // 
@@ -113,6 +104,16 @@
             this.btn_Salir.Text = "Salir";
             this.btn_Salir.UseVisualStyleBackColor = true;
             this.btn_Salir.Click += new System.EventHandler(this.btn_Salir_Click);
+            // 
+            // btn_Ingresar
+            // 
+            this.btn_Ingresar.Location = new System.Drawing.Point(253, 19);
+            this.btn_Ingresar.Name = "btn_Ingresar";
+            this.btn_Ingresar.Size = new System.Drawing.Size(88, 35);
+            this.btn_Ingresar.TabIndex = 0;
+            this.btn_Ingresar.Text = "Ingresar";
+            this.btn_Ingresar.UseVisualStyleBackColor = true;
+            this.btn_Ingresar.Click += new System.EventHandler(this.btn_Ingresar_Click);
             // 
             // Form1
             // 

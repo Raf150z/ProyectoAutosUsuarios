@@ -1,0 +1,6 @@
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\UsuariosEntidades\bin\Debug\UsuariosEntidades.dll
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\UsuariosEntidades\bin\Debug\UsuariosEntidades.pdb
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\UsuariosEntidades\obj\Debug\UsuariosEntidades.csproj.AssemblyReference.cache
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\UsuariosEntidades\obj\Debug\UsuariosEntidades.csproj.CoreCompileInputs.cache
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\UsuariosEntidades\obj\Debug\UsuariosEntidades.dll
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\UsuariosEntidades\obj\Debug\UsuariosEntidades.pdb

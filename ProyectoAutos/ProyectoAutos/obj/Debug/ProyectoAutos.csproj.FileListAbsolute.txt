@@ -40,3 +40,8 @@ C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin
 C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\obj\Debug\ProyectoAutos.csproj.CopyComplete
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\LogicaUsuarios.dll
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\UsuariosAccesoDatos.dll
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\LogicaUsuarios.pdb
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\UsuariosAccesoDatos.pdb
+C:\Users\rafav\OneDrive\Escritorio\ProyectoAutos\ProyectoAutos\ProyectoAutos\bin\Debug\UsuariosAccesoDatos.dll.config
